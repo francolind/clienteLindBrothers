@@ -4,8 +4,8 @@ import { MiPerfil } from './MiPerfil';
 import { Ajustes } from './Ajustes';
 import { Ayuda } from './Ayuda';
 import { Novedades } from './Novedades';
-import { Preguntas } from './preguntas';
-import { Resumen } from './resumen';
+import { Preguntas } from './Preguntas';
+import { Resumen } from './Resumen';
 import { MisCompras } from './MisCompras';
 import { CerrarSeccion } from './CerrarSeccion';
 
