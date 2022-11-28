@@ -5,7 +5,7 @@ import { Ajustes } from './Ajustes';
 import { Ayuda } from './Ayuda';
 import { Novedades } from './Novedades';
 import { Preguntas } from './Preguntas.jsx';
-import { Resumen } from './Resumen';
+import { Resumen } from './Resumen.jsx';
 import { MisCompras } from './MisCompras';
 import { CerrarSeccion } from './CerrarSeccion';
 
