@@ -6,8 +6,8 @@ import { Ayuda } from './Ayuda';
 import { Novedades } from './Novedades';
 import { Preguntas } from './preguntas';
 import { Resumen } from './resumen';
-import { MisCompras } from './misCompras';
-import { CerrarSeccion } from './cerrarSeccion';
+import { MisCompras } from './MisCompras';
+import { CerrarSeccion } from './CerrarSeccion';
 
 
 export const MiCuenta = ()=>{
