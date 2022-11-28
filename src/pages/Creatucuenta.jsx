@@ -1,5 +1,5 @@
 import logo from '../assets/logo1.png'
-import '../styles/creatucuenta.css'
+import '../styles/Creatucuenta.css'
 import back from '../assets/22.png'
 import google from '../assets/google.png'
 import facebook from '../assets/facebook.png'
