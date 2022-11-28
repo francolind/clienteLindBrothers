@@ -4,7 +4,7 @@ import { MiPerfil } from './MiPerfil';
 import { Ajustes } from './Ajustes';
 import { Ayuda } from './Ayuda';
 import { Novedades } from './Novedades';
-import { Preguntas } from './Preguntas';
+import { Preguntas } from './Preguntas.jsx';
 import { Resumen } from './Resumen';
 import { MisCompras } from './MisCompras';
 import { CerrarSeccion } from './CerrarSeccion';
