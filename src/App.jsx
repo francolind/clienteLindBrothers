@@ -7,7 +7,7 @@ import { Ingresar } from './pages/Ingresar';
 import { Carrito } from './pages/Carrito';
 import { Abrigos } from './pages/Abrigos';
 import { Equipaje } from './pages/Equipaje';
-import { Relojes } from './pages/relojes';
+import { Relojes } from './pages/Relojes.jsx';
 import { Interior } from './pages/Interior';
 import { Anteojos } from './pages/anteojos';
 import { Pantalones } from './pages/Pantalones';
