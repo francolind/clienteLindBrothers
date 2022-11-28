@@ -9,7 +9,7 @@ import { Abrigos } from './pages/Abrigos';
 import { Equipaje } from './pages/Equipaje';
 import { Relojes } from './pages/Relojes.jsx';
 import { Interior } from './pages/Interior';
-import { Anteojos } from './pages/anteojos';
+import { Anteojos } from './pages/Anteojos';
 import { Pantalones } from './pages/Pantalones';
 import { Camisas } from './pages/Camisas';
 import { Deportiva } from './pages/Deportiva';
