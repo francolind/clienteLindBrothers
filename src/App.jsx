@@ -13,7 +13,7 @@ import { Anteojos } from './pages/Anteojos';
 import { Pantalones } from './pages/Pantalones';
 import { Camisas } from './pages/Camisas';
 import { Deportiva } from './pages/Deportiva';
-import { Remeras } from './pages/remeras';
+import { Remeras } from './pages/Remeras';
 import { Gorros } from './pages/Gorros';
 import { Perfumes } from './pages/Perfumes';
 import { MiCuenta } from './pages/miCuenta';
