@@ -16,7 +16,7 @@ import { Deportiva } from './pages/Deportiva';
 import { Remeras } from './pages/Remeras';
 import { Gorros } from './pages/Gorros';
 import { Perfumes } from './pages/Perfumes';
-import { MiCuenta } from './pages/miCuenta';
+import { MiCuenta } from './pages/MiCuenta';
 
 
 function App() {
